@@ -1,0 +1,63 @@
+
+
+-------------------
+| TechWall NestJs |
+-------------------
+
+
+1) VID((1)) Présentation
+------------------------
+
+2) VID((2)) Installation
+------------------------
+
+
+# npm i -g @nestjs/cli
+#
+# nest update
+#
+# nest new project-name
+#
+
+
+
+3) VID((3)) Tour d'horizon de NestJS, explorer les différents dossiers et fichiers de NestJs
+--------------------------------------------------------------------------------------------
+
+* dist 
+* node_modules
+* packages.json
+* .gitignore
+* nest-cli.json => configuration nest cli
+* tsconfig.json => configuration typescript
+* src => dossier source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
